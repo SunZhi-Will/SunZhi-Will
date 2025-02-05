@@ -40,11 +40,11 @@
 - 🤝 四年接案經驗 (AR/VR、影像辨識、AI)
 - 📚 公司內部 Gemini 和 Azure OpenAI 技術分享
 
-## �� 主要專案
+## 🚀 主要專案
 ### Synvize
-<div align="center">
-  <img width="450" src="images/synvize/home.png" alt="Synvize 首頁">
-  <img width="450" src="images/synvize/edit.png" alt="Synvize 編輯頁面">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img width="400" src="images/synvize/home.png" alt="Synvize 首頁">
+  <img width="400" src="images/synvize/edit.png" alt="Synvize 編輯頁面">
 </div>
 
 AI 驅動的內容生成平台

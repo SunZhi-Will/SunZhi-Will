@@ -42,9 +42,9 @@ I'm a software engineer at Inventec, focusing on .NET development and AI applica
 
 ## 🚀 Key Projects
 ### Synvize
-<div align="center">
-  <img width="450" src="images/synvize/home.png" alt="Synvize Home Page">
-  <img width="450" src="images/synvize/edit.png" alt="Synvize Edit Page">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img width="400" src="images/synvize/home.png" alt="Synvize Home Page">
+  <img width="400" src="images/synvize/edit.png" alt="Synvize Edit Page">
 </div>
 
 AI-Powered Content Generation Platform
