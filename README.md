@@ -8,7 +8,7 @@
   
   [![Personal Website](https://img.shields.io/badge/Website-shangzhistime-blue?style=flat-square)](https://sites.google.com/view/shangzhistime)
   [![GitHub](https://img.shields.io/badge/GitHub-SunZhi--Will-181717?style=flat-square&logo=github)](https://github.com/SunZhi-Will)
-  [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:your.email@example.com)
+  [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:sun055676@gmail.com)
 </div>
 
 ## 🚀 About Me
