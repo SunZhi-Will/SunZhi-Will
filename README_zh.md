@@ -40,15 +40,16 @@
 - 🤝 四年接案經驗 (AR/VR、影像辨識、AI)
 - 📚 公司內部 Gemini 和 Azure OpenAI 技術分享
 
-## 🚀 主要專案
+## �� 主要專案
 ### Synvize
-<img align="right" width="450" src="https://hackmd.io/_uploads/Sy7H1oeFke.png">
+<div align="center">
+  <img width="450" src="images/synvize/home.png" alt="Synvize 首頁">
+  <img width="450" src="images/synvize/edit.png" alt="Synvize 編輯頁面">
+</div>
 
 AI 驅動的內容生成平台
 - 自動彙整資料
 - AI 生成文章和電子報
-
-<br clear="right"/>
 
 ### 其他項目
 - 🎮 Unity 遊戲與影像辨識應用

@@ -42,13 +42,14 @@ I'm a software engineer at Inventec, focusing on .NET development and AI applica
 
 ## 🚀 Key Projects
 ### Synvize
-<img align="right" width="450" src="https://hackmd.io/_uploads/Sy7H1oeFke.png">
+<div align="center">
+  <img width="450" src="images/synvize/home.png" alt="Synvize Home Page">
+  <img width="450" src="images/synvize/edit.png" alt="Synvize Edit Page">
+</div>
 
 AI-Powered Content Generation Platform
 - Automatic data aggregation
 - AI-generated articles and newsletters
-
-<br clear="right"/>
 
 ### Other Projects
 - 🎮 Unity Games and Computer Vision Applications
