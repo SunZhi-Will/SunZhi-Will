@@ -87,3 +87,153 @@ A platform for cloud image storage, editing, tagging, and original image compari
 </div>
 
 <div align="center">
+
+# 🤖 Google Form AI Auto Filler
+
+[English](#english) | [繁體中文](README.zh-TW.md)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
+[![Gemini](https://img.shields.io/badge/AI-Gemini-orange)](https://deepmind.google/technologies/gemini/)
+
+An intelligent tool that uses Google Gemini AI to automatically fill out Google Forms  
+Just provide a form URL and basic information to generate a prefilled form URL
+
+[Features](#features) •
+[Getting Started](#getting-started) •
+[Usage](#usage) •
+[Contributing](#contributing)
+
+</div>
+
+---
+
+## ✨ Features
+
+- 🧠 Smart answer generation using Gemini AI
+- 🔍 Automatic Google Form structure parsing
+- 📝 Support for various question types:
+  - Short / Paragraph answers
+  - Multiple choice / Dropdown menus
+  - Checkboxes / Linear scales
+  - Grid questions
+  - Date / Time questions
+
+## 🚀 Getting Started
+
+This tool can be used in two ways: as a pure frontend application or with a Python backend.
+
+### Option A: Frontend Version (No Installation)
+
+#### Prerequisites
+- Modern web browser (Chrome, Firefox, Edge, etc.)
+- Valid [Google AI Studio](https://makersuite.google.com/app/apikey) API key
+
+#### Running the App
+Simply download this repository and open the `index.html` file in your browser. No server required.
+
+You can also use:
+- Visual Studio Code's "Live Server" extension
+- Any static file server (like Python's `python -m http.server`)
+
+### Option B: Python Version
+
+#### Prerequisites
+- Python 3.7 or higher
+- Valid [Google AI Studio](https://makersuite.google.com/app/apikey) API key
+
+#### Setup
+1. Install required packages:
+   ```bash
+   cd python
+   pip install -r requirements.txt
+   ```
+
+2. Configure the Python script:
+   - Open `python/ai_form.py` with a text editor
+   - Set your Google Form URL and personal information in the script
+   - Create a `.env` file in the python directory and add your API key:
+     ```
+     GEMINI_API_KEY=your_api_key_here
+     ```
+
+3. Run the script:
+   ```bash
+   python ai_form.py
+   ```
+
+## 📖 Usage
+
+### Frontend Version
+
+1. Enter your Gemini API key
+2. Paste the Google Form URL
+3. Wait for the form structure to be detected
+4. Enter your personal information
+5. Click "Generate Prefilled URL" to get a URL with your answers
+
+### Python Version
+
+You can customize the script by modifying:
+- The `URL` variable to set your Google Form URL
+- The `PROMPT_PARTS` list to set your personal information
+
+### Custom Information Format
+You can format your personal information however you prefer. For example:
+```
+Name: John Doe
+Gender: Male
+Email: example@email.com
+Birth Date: {"year": 1990, "month": 5, "day": 15}
+Interests: Music, Hiking, Reading
+```
+
+## ⚠️ Notes
+
+- Your Gemini API key is used locally only and is never stored or transmitted to any server
+- The web version requires successful form structure detection before generating a link
+- This tool is for educational and research purposes only
+- Please respect Google Form's terms of service
+
+## 🤝 Contributing
+
+Contributions are welcome to improve this tool:
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+### Areas for Improvement
+- Support for more question types
+- Improved AI response accuracy
+- Enhanced form detection error handling
+- UI/UX improvements
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+## 📢 Disclaimer
+
+This tool is for educational and research purposes only. Users should use it at their own risk and comply with applicable laws and regulations.
+
+## 📮 Contact
+
+For any questions or suggestions:
+- 🐛 [Open an Issue](../../issues)
+- 🔀 [Submit a PR](../../pulls)
+- 📧 Email to [sun055676@gmail.com]
+
+## 🙏 Acknowledgements
+
+- [Google Gemini AI](https://deepmind.google/technologies/gemini/)
+- Various CORS proxy services for form detection
+- Modern web technologies (HTML, CSS, JavaScript)
+
+---
+
+<div align="center">
+Made with ❤️ by Sun
+</div>
