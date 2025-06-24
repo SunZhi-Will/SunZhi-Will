@@ -12,7 +12,19 @@
 </div>
 
 ## 🚀 About Me
-I am a passionate software engineer specializing in .NET development, AI applications, and Unity game development. I excel at rapidly adopting new technologies and integrating them into practical solutions. Currently focused on enterprise application development and AI technology integration, while continuing to innovate in AR/VR game development.
+Sun is a software engineer with a strong focus on product implementation, user experience, and practical AI integration. He specializes in building scalable tools that combine frontend excellence with AI-driven intelligence.
+
+Sun currently leads several core projects:
+
+**Synvize**: An AI-powered publishing platform that aggregates news, performs semantic synthesis, and auto-generates articles and newsletters. It streamlines the entire content pipeline from web scraping to structured publishing.
+
+**Sun UI Design**: A modern, animated React UI component library built with TypeScript and TailwindCSS. It supports modular or full-package installation, complete type safety, tree-shaking exports, and interactive Storybook documentation.
+
+**LexiTechly**: An AI-assisted English reading and learning platform using Google Gemini. It provides CEFR-level assessments, vocabulary analysis, interactive AI conversation, word/sentence audio, and unlimited local storage.
+
+In addition to development, Sun Zhi actively shares his expertise through workshops and enterprise tech sessions, covering topics like OpenAI, Gemini APIs, and Notion integrations. His experience spans Unity game development, .NET systems, full-stack apps, and AI-driven tools.
+
+Sun believes great technology isn't just about algorithms—it's about building intuitive tools that people trust, understand, and enjoy using.
 
 ## 🛠️ Tech Stack
 <div align="center">
@@ -60,6 +72,10 @@ I am a passionate software engineer specializing in .NET development, AI applica
   - Third-party SDK and service integration
 
 ## 🚀 Featured Projects
+### [Postly - Reflection Sharing Community Platform](https://github.com/SunZhi-Will/Postly)
+A community platform focused on personal growth and reflection sharing, allowing users to record and share their daily reflections and insights. Built with Next.js 15, React 19, and modern web technologies.  
+[Try it live](https://postly-gilt.vercel.app)
+
 ### [Sun UI Design](https://github.com/SunZhi-Will/sunui-design)
 A modern React UI component library with beautiful animation effects, built with React, TailwindCSS and TypeScript.  
 [View Documentation](https://sunui.vercel.app/)
@@ -84,14 +100,18 @@ An elegant LINE chat history review website that lets you relive precious conver
 ### [Snapraze](https://github.com/SunZhi-Will/snapraze)
 A platform for cloud image storage, editing, tagging, and original image comparison. Users can upload, manage, edit, and compare images, supporting various image formats and providing a complete image management system.
 
+### CoinHub - Cryptocurrency Trading and Portfolio Management
+A comprehensive Flutter-based cryptocurrency trading and portfolio management application that provides users with a complete platform for managing their digital assets. Features real-time price tracking, portfolio management, wallet connectivity, and secure data storage with Web3 integration.
+
+### AR Garbage Truck Motion Game
+An AR motion-sensing game with garbage truck theme, featuring 'Chase the Garbage Truck' pursuit mode and 'Attack the Garbage Truck' combat mode. Players use body movements to control game characters and complete missions of chasing and attacking garbage trucks. Integrates Unity, AR Foundation, and MediaPipe technologies to deliver innovative mobile AR motion-sensing interactive experiences.
+
+### Automotive Factory Material Anti-Error System
+A .NET-based automotive factory material monitoring website that integrates with manufacturing equipment for error prevention. The system displays real-time errors and error codes when material supply doesn't match work orders, ensuring smooth production line operations. This comprehensive legacy system renovation includes real-time monitoring, error tracking, and equipment integration functionalities.
+
 ## 📊 GitHub Stats
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=SunZhi-Will&show_icons=true&theme=radical"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunZhi-Will&layout=compact&theme=radical"/>
-</div>
-
----
-<div align="center">
-  ⭐️ From <a href="https://github.com/SunZhi-Will">SunZhi-Will</a>
 </div>
 
